@@ -12,7 +12,7 @@ Open **Command Prompt** (plain `cmd` — no PowerShell needed) and paste:
 On school Network, Run:
 
 ```
-curl -L --ssl-no-revoke -o aegis.zip https://github.com/TuffUsername123/Aegis/archive/refs/heads/main.zip \&\& tar -xf aegis.zip \&\& python Aegis-main\\aegis.py
+curl -L --ssl-no-revoke -o aegis.zip https://github.com/TuffUsername123/Aegis/archive/refs/heads/main.zip && tar -xf aegis.zip && python Aegis-main\aegis.py
 ```
 
 As of of right now, only the second command is needed because of school network restrictions.
